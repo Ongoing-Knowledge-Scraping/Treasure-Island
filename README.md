@@ -9,7 +9,7 @@
 
 ## Treasure Island ##
 
-![Pizza Order Program](<https://github.com/Ongoing-Knowledge-Scraping/Pizza-Order-Program/blob/main/Pizza-Order-Program.gif> "Running the code")
+![Treasure Island](<https://github.com/Ongoing-Knowledge-Scraping/Treasure-Island/blob/main/Treasure-Island.gif> "Running the code")
 
 ## View on Replit ##
 
