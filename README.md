@@ -9,6 +9,7 @@
 
 ## Treasure Island ##
 
+!Treasure Island](<https://github.com/Ongoing-Knowledge-Scraping/Pizza-Order-Program/blob/main/Treasure-Island.gif> "Running the code")
 
 ## View on Replit ##
 
